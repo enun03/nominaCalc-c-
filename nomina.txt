@@ -1,0 +1,18 @@
+Nombre Empleado: Vicente
+Horas trabajadas: 41
+Pago por hora: $7.25
+Nomina
+Total Bruto: $311.75
+Horas Extra: 14.5
+Total Descuentos: $76.0027
+Total Neto: $235.747
+
+Nombre Empleado: Eli
+Horas trabajadas: 42
+Pago por hora: $9
+Nomina
+Total Bruto: $414
+Horas Extra: 36
+Total Descuentos: $76.0027
+Total Neto: $337.997
+
